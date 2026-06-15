@@ -1,7 +1,7 @@
 # Hola, soy Enrique Benito López 👋
 
 ### Full Stack Developer · Python · Flask · Automatización de procesos
-
+### Desarrollador de Aplicaciones Multiplataforma (24-26)
 Desarrollador con 6 años de formación en el Ejército de Tierra y especialización en automatización de procesos y desarrollo web. Proyectos en producción diseñados de forma autónoma con criterio de arquitectura, seguridad y cumplimiento RGPD.
 
 ---
@@ -9,7 +9,7 @@ Desarrollador con 6 años de formación en el Ejército de Tierra y especializac
 ## 🚀 Proyectos destacados
 
 ### 🐾 Supervivientes Perrunos — Plataforma web ONG
-> TFG DAM2 · Nota 8,9 · En producción
+> TFG DAM · En producción
 
 Plataforma web completa para ONG de acogida animal en Madrid.
 
