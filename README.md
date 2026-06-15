@@ -17,7 +17,7 @@ Plataforma web completa para ONG de acogida animal en Madrid.
 **Seguridad:** 2FA · Protección SQL injection · RGPD documentado  
 **SEO:** Schema.org · Open Graph · Google Search Console · Sitemaps
 
-🔗 [supervivientesperrunos.org](https://supervivientesperrunos.org)
+🔗 [supervivientesperrunos.org](https://www.supervivientesperrunos.org)
 
 ---
 
