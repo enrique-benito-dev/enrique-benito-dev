@@ -1,19 +1,19 @@
 # Hola, soy Enrique Benito López 👋
 
-### Full Stack Developer · Python · Flask · Automatización de procesos
-### Desarrollador de Aplicaciones Multiplataforma (24-26)
-Desarrollador con 6 años de formación en el Ejército de Tierra y especialización en automatización de procesos y desarrollo web. Proyectos en producción diseñados de forma autónoma con criterio de arquitectura, seguridad y cumplimiento RGPD.
+### Full Stack Developer · Python · Flask · Automatización de procesos · IA Aplicada
+
+Desarrollador Full Stack especializado en automatización, desarrollo web y arquitectura de sistemas. Proyectos en producción diseñados de forma autónoma con criterio de arquitectura, seguridad y cumplimiento RGPD. Antes, 6 años en el Ejército de Tierra — transmisiones tácticas, Operación Balmis, Cruz al Mérito Militar con Distintivo Blanco.
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### 🐾 Supervivientes Perrunos — Plataforma web ONG
-> TFG DAM · En producción
+### 🐾 [Supervivientes Perrunos](https://github.com/enrique-benito-dev/Supervivientes_Perrunos) — Plataforma web ONG
+> TFG DAM2 · Nota 8,9 · En producción
 
 Plataforma web completa para ONG de acogida animal en Madrid.
 
-**Stack:** Flask · PostgreSQL · Jinja2 · HTML/CSS · Cloudflare · PythonAnywhere  
+**Stack:** Flask · PostgreSQL · SQLAlchemy · Jinja2 · HTML/CSS · Cloudflare · PythonAnywhere  
 **Seguridad:** 2FA · Protección SQL injection · RGPD documentado  
 **SEO:** Schema.org · Open Graph · Google Search Console · Sitemaps
 
@@ -21,7 +21,7 @@ Plataforma web completa para ONG de acogida animal en Madrid.
 
 ---
 
-### ⚙️ Rebs Automation Suite — Suite de automatización inmobiliaria
+### ⚙️ [Rebs Automation Suite](https://github.com/enrique-benito-dev/rebs-automation-suite) — Suite de automatización inmobiliaria
 > Prácticas DAM2 · Rebs Real Estate Business School · En producción
 
 Dos sistemas de automatización en producción activa que eliminaron horas de trabajo manual repetitivo del equipo.
@@ -34,11 +34,13 @@ Dos sistemas de automatización en producción activa que eliminaron horas de tr
 ---
 
 ## 🛠️ Stack técnico
-Python · Flask · PostgreSQL · JavaScript · HTML/CSS
 
+```
+Python · Flask · PostgreSQL · SQLAlchemy · JavaScript · HTML/CSS
 n8n · Google APIs · openpyxl · reportlab · pypdf
-
 Git · Cloudflare · PythonAnywhere · SEO técnico · RGPD
+Notion (arquitectura de sistemas) · IA Aplicada
+```
 
 ---
 
