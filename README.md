@@ -1,6 +1,6 @@
 # Hola, soy Enrique Benito López 👋
 
-### Full Stack Developer · Python · Flask · Automatización de procesos · IA Aplicada
+### Full Stack Developer · Python · Flask · Automatización de procesos · IA Aplicada · Prompt Engineering
 
 Desarrollador Full Stack especializado en automatización, desarrollo web y arquitectura de sistemas. Proyectos en producción diseñados de forma autónoma con criterio de arquitectura, seguridad y cumplimiento RGPD. Antes, 6 años en el Ejército de Tierra — transmisiones tácticas, Operación Balmis, Cruz al Mérito Militar con Distintivo Blanco.
 
